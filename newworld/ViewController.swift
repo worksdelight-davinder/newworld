@@ -14,6 +14,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("new world")
+        print("ndddew world")
+        print("nexcxcw world")
+        print("cc world")
+        print("neczxczxw world")
+        print("nxzczew world")
+        print("newczc world")
+        print("nezczw world")
+
     }
 
     override func didReceiveMemoryWarning() {
